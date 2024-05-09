@@ -1,32 +1,223 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="3d7039c6-8d55-4b35-af04-6b17472ee1bf" name="Changes" comment="" />
+    <list default="true" id="3d7039c6-8d55-4b35-af04-6b17472ee1bf" name="Changes" comment="First Commit">
+      <change afterPath="$PROJECT_DIR$/Day1/Day1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/LearningMaterial/Day1reading.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/LearningMaterial/day1-slides.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/LearningMaterial/day1exercises.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Clock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Conditionals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Conditionalsexam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Mamimising.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Modulo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/NumberPyramidsQ11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/OptimusPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Partner_Salary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Pi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Prime10000.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/PrimePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Q4_Prime_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Q5_Multiplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Q6Division.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Q7_.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Q9_Goingup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Repeats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/ReverseNumberPyramidQ12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Squares.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/StringComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/Template.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/floating_point_variables.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/leaveblank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/numbercounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/unicode_matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day1/src/updownnumbercounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/Day3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/LearningMaterial/day3 notes.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/LearningMaterial/day3-slides.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/LearningMaterial/exercises_d3.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/AdvancedCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Calculator2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Calculator3CommandLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Characterschar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/CloseEnough.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/ConstructorRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/CountingLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/DistanceBetweenTwoPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Equalitylimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Guy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/MailServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/MondayNights.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/MoreEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Palindromes1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/StrictPalindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/TestingEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/TutQ1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/YourChangePlease.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/buddy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/goingup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/switchcase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/ternaryoperator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day3/src/textbookexampleofClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/Day4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/LearningMaterial/day4-slides.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/LearningMaterial/exercises_d4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/LearningMaterial/notes day 4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/src/BinaryAndHexidecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/src/Integer2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/src/MethodsScope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/src/NewMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/src/Q3_Execution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/src/Q4_BinaryAndDecimal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/src/Q4_teacherVersion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day4/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/GeneralResources.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/ImageTables/Character Escape Sequences.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/ImageTables/New Microsoft Word Document.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/ArrayCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/BodylessLoops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/BreakLabelExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/CharClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/ContinueForEarlyIteration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/EscapeSequencesDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/FunctionalInterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/GridScanCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/HashmapAsCounter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/Lambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/StreamsAndFilters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/Threads.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GeneralResources/src/ToStringOverrides.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeasForPrograms/Ideas" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeasForPrograms/IdeasForPrograms.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IdeasForPrograms/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Notes - Encapsulation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Notes - Polymorphism" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/Notes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Notes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Day1/src/Main.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2gBGuWwKxshiCw4sOJk2Z5qBtHg" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.AdvancedCalculator.executor": "Run",
+    "Application.BodylessLoops.executor": "Run",
+    "Application.BreakLabelExample.executor": "Debug",
+    "Application.Calculator.executor": "Run",
+    "Application.Calculator2.executor": "Run",
+    "Application.CharClass.executor": "Run",
+    "Application.Characterschar.executor": "Run",
+    "Application.Clock.executor": "Run",
+    "Application.CloseEnough.executor": "Run",
+    "Application.ConstructorRectangle.executor": "Run",
+    "Application.ContinueForEarlyIteration.executor": "Run",
+    "Application.EscapeSequencesDemo.executor": "Run",
+    "Application.MailServer.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Mamimising.executor": "Run",
+    "Application.Palindromes1.executor": "Run",
+    "Application.Q4_BinaryAndDecimal.executor": "Run",
+    "Application.Q4_Prime_Number.executor": "Run",
+    "Application.Q4_teacherVersion.executor": "Debug",
+    "Application.Q5_Multiplication.executor": "Run",
+    "Application.YourChangePlease.executor": "Run",
+    "Application.buddy.executor": "Run",
+    "Application.test.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/theoz/IdeaProjects/PIJRedeux/src/Main.java"
+    "onboarding.tips.debug.path": "C:/Users/theoz/IdeaProjects/PIJRedeux/Day2/src/Main.java"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\theoz\IdeaProjects\PIJRedeux\Day4\LearningMaterial" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AdvancedCalculator">
+    <configuration name="AdvancedCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AdvancedCalculator" />
+      <module name="Day3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Day4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4_BinaryAndDecimal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q4_BinaryAndDecimal" />
+      <module name="Day4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q4_teacherVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Q4_teacherVersion" />
+      <module name="Day4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="Day4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AdvancedCalculator" />
+        <item itemvalue="Application.Q4_teacherVersion" />
+        <item itemvalue="Application.Q4_BinaryAndDecimal" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.Main (1)" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -36,7 +227,21 @@
       <option name="presentableId" value="Default" />
       <updated>1715163782862</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <option name="closed" value="true" />
+      <created>1715163826467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715163826467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -45,6 +250,31 @@
           <url>file://$PROJECT_DIR$/src/Main.java</url>
           <line>11</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Day1/src/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Day2/src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/GeneralResources/src/BreakLabelExample.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Day4/src/Q4_teacherVersion.java</url>
+          <line>115</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Day4/src/Q4_teacherVersion.java</url>
+          <line>103</line>
+          <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
